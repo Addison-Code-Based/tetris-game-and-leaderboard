@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+h3 {
+	color: black;
+	text-align:center;
+}
+p {
+  font-family: verdana;
+  font-size: 12px;
+}
+h4 {
+	color: red;
+}
+header {
+    size: 20px;
+}
